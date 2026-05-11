@@ -18,9 +18,9 @@
 
 # About Me
 
-I'm **Gourav Sarkar**, an aspring software engineer focused on Android development and building Kotlin based apps that solve real problems. My interest lies in learning through implementation, improving code through iteration, and shipping features that behave predictably. I put emphasis on clear app flow, stable behavior, and code that is easy to read and maintain. I'm also learning other things and exploring what I find interesting :)
+I'm **Gourav Sarkar**, an aspiring software  engineer focused on Android development and building Kotlin based apps  that solve real problems. My interest lies in learning through  implementation, improving code through iteration, and shipping features  that behave predictably. I put emphasis on solid architecture, polished UI, performance-focused implementation clear app flow, stable behavior, and code that is easy to read and maintain. 
 
-I enjoy turning app ideas into usable products with solid architecture, polished UI, persistence, background work, error handling, and performance-focused implementation.
+I'm also exploring new things and learning what I find interesting :)
 
 ## Tech Stack
 
